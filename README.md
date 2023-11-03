@@ -17,10 +17,6 @@ We're a group of tech enthusiasts who love to code, learn, and have a good time 
 
 Feel free to reach out to us if you want to join the MikuSquad, collaborate on projects, or simply have a chat. We're always open to new friends and exciting collaborations. 😄
 
-📫 Contact us at [Your Email Address].
-🌐 Check out our website at [Your Website].
-🐦 Follow us on Twitter [@MikuSquad] for updates and quirky tech news.
-
 ## Projects
 
 Explore our GitHub repositories to find a variety of projects, from serious code to lighthearted apps. Join us on this journey, and let's have some coding fun together!
